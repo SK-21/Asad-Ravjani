@@ -1,8 +1,8 @@
 
  var images = [
   'url("p (1).jpeg")', 
-  'url\(\"img1..jpg\"\)', 
-  'url("pic..2.jpeg")'
+  //'url\(\"pic..2.jpeg\"\)', 
+  'url("img1..jpg")'
     //'url("compressed img/pic2 (1).jpg")', 
   //'url\(\"p (1).jpeg\"\)', 
    // 'url("pic2...jpeg")'
